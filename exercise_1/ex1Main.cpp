@@ -16,8 +16,6 @@ int main(){
     printMatrix(n,myMatrix);
     deleteMatrix(n,myMatrix);
     return 0;
-
-
 }
 int** sqrMatrix(int n){
     int counter=1;
