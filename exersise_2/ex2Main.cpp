@@ -48,3 +48,5 @@ void logMessage (string message, string fileName, int codeLine){
 void logMessage (string message, string fileName, string userName){
     writeOnFile ("[SECURITY]<" + message + ", log by " + userName +">", fileName);
 }
+
+// asdasdasd
