@@ -1,8 +1,5 @@
 #include<iostream>
 using namespace std;
-int** sqrMatrix(int n);
-void printMatrix(int n,int** myMatrix);
-void deleteMatrix(int n, int** myMatrix);
 
 int main(){
     int n; 
